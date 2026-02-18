@@ -1,5 +1,7 @@
 # supply-chain-analytics-dashboard
 End-to-end Supply Chain Analytics Dashboard built using Power BI
+
+
 Project Overview
 This project presents a comprehensive Supply Chain Analytics Dashboard built using Power BI.
 It analyzes demand performance, inventory efficiency, logistics reliability, and supplier performance to support data-driven operational and working capital decisions.
