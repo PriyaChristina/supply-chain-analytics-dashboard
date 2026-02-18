@@ -3,13 +3,16 @@ End-to-end Supply Chain Analytics Dashboard built using Power BI
 
 
 Project Overview
+
 This project presents a comprehensive Supply Chain Analytics Dashboard built using Power BI.
 It analyzes demand performance, inventory efficiency, logistics reliability, and supplier performance to support data-driven operational and working capital decisions.
+
 The dashboard provides end-to-end visibility across:
 •	Order & Demand Performance
 •	Inventory Optimization
 •	Logistics & Delivery Efficiency
 •	Supplier Performance Monitoring
+
 Business Objectives
 •	Monitor service level using Fill Rate & OTIF
 •	Optimize inventory using Turnover & DIO
@@ -17,7 +20,9 @@ Business Objectives
 •	Improve logistics efficiency
 •	Evaluate supplier reliability and performance
 •	Identify working capital optimization opportunities
+
 Dashboard Pages
+
 Order & Demand Analysis
 Focus: Demand trends & service performance
 KPIs:
@@ -30,6 +35,7 @@ Insights Generated:
 •	Customer backlog analysis
 •	Month-over-Month service level tracking
 •	Category demand volatility (Electronics vs Semiconductor)
+
 Inventory Analysis
 Focus: Working capital & stock health
 KPIs:
@@ -46,6 +52,7 @@ Business Insights:
 •	Low turnover indicates overstocking
 •	High DIO suggests capital lock-up
 •	Inventory concentration risk in A-class SKUs
+
 Logistics & Delivery Analysis
 Focus: Delivery efficiency & delay monitoring
 KPIs:
@@ -60,6 +67,7 @@ Business Insights:
 •	Identified delivery variability
 •	Measured service level consistency
 •	Detected potential SLA breach risks
+
 Supplier Performance Analysis
 Focus: Supplier reliability & procurement efficiency
 KPIs:
@@ -76,12 +84,15 @@ Business Insights:
 •	Identified high-spend suppliers
 •	Evaluated supplier performance risk
 •	Highlighted supplier concentration risk
+
 Technical Implementation
+
 Data Modeling
 •	Designed Star Schema
 •	Built separate Date Table
 •	Managed many-to-many relationships via bridge table
 •	Optimized cross-filter direction
+
 Advanced DAX Used
 •	CALCULATE & Context Transition
 •	SUMX, AVERAGEX (Iterators)
@@ -90,12 +101,14 @@ Advanced DAX Used
 •	DATEDIFF (Period calculation)
 •	DIVIDE (Safe calculations)
 •	ABC Classification logic
+
 Key Performance Highlights
 •	Fill Rate ~88% (below industry benchmark of 95%)
 •	Inventory Turnover = 0.47 (inefficient movement)
 •	DIO ≈ 397 days (high working capital lock-up)
 •	Stockout Rate = 0.4% (high availability but possible overstocking)
 •	Supplier performance variability observed
+
 Business Impact
 This dashboard enables:
 •	Working capital optimization
@@ -104,6 +117,7 @@ This dashboard enables:
 •	Supplier risk monitoring
 •	Logistics performance evaluation
 •	Data-driven operational decisions
+
 Tools & Technologies
 •	Power BI Desktop
 •	Power Query
