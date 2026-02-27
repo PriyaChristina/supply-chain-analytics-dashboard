@@ -128,8 +128,8 @@ Tools & Technologies
 Author
 Priya Christina
 Power BI | DAX | Supply Chain Analytics<img width="1343" height="751" alt="Order_Demand Analysis Screenshot" src="https://github.com/user-attachments/assets/c3197b88-e797-48ef-a00c-ca5953ff299a" />
-<img width="1338" height="744" alt="Inventory Analysis Screenshot" src="https://github.com/user-attachments/assets/870185c5-fcb9-428c-862a-e7905a7bd85e" />
 <img width="1332" height="746" alt="Logistics Analysis Screenshot" src="https://github.com/user-attachments/assets/5635ddfc-e27e-4006-bb70-eb2326fb1a9f" />
 <img width="1325" height="748" alt="Supplier Analysis Screenshot" src="https://github.com/user-attachments/assets/43362dc7-6d72-4117-a971-a0c4343f289b" />
 <img width="1346" height="748" alt="Data Quality Screenshot" src="https://github.com/user-attachments/assets/ec07b0a4-6e4b-474f-9e09-260ccf8e7b64" />
+<img width="1341" height="747" alt="Inventory Analysis" src="https://github.com/user-attachments/assets/538963ab-ee1f-4458-876b-104a31c2f579" />
 
