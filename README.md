@@ -104,8 +104,8 @@ Advanced DAX Used
 
 Key Performance Highlights
 •	Fill Rate ~88% (below industry benchmark of 95%)
-•	Inventory Turnover = 0.47 (inefficient movement)
-•	DIO ≈ 397 days (high working capital lock-up)
+•	Inventory Turnover = 66.6
+•	DIO ≈ 2.83
 •	Stockout Rate = 0.4% (high availability but possible overstocking)
 •	Supplier performance variability observed
 
